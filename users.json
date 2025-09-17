@@ -1,0 +1,32 @@
+{
+  "users": {
+    "admin": {
+      "password": "admin123",
+      "role": "admin",
+      "full_name": "System Administrator",
+      "badge_id": "ADM-001",
+      "status": "active"
+    },
+    "investigator1": {
+      "password": "invest123",
+      "role": "investigator",
+      "full_name": "Detective Jane Smith",
+      "badge_id": "INV-001",
+      "status": "active"
+    },
+    "analyst1": {
+      "password": "analyst123",
+      "role": "analyst",
+      "full_name": "Forensic Analyst John Doe",
+      "badge_id": "ANA-001",
+      "status": "active"
+    },
+    "auditor1": {
+      "password": "auditor123",
+      "role": "auditor",
+      "full_name": "Compliance Auditor Sarah Lee",
+      "badge_id": "AUD-001",
+      "status": "active"
+    }
+  }
+}
